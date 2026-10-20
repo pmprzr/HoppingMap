@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HoppingMap.Tests/HoppingMap.Tests.csproj" />
+  <Project Path="HoppingMap/HoppingMap.csproj" />
+</Solution>

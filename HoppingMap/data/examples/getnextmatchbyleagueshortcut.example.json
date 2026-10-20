@@ -1,0 +1,35 @@
+{
+  "matchID": 83180,
+  "matchDateTime": "2026-09-11T20:30:00",
+  "timeZoneID": "W. Europe Standard Time",
+  "leagueId": 4937,
+  "leagueName": "1. Fußball-Bundesliga 2026/2027",
+  "leagueSeason": 2026,
+  "leagueShortcut": "bl1",
+  "matchDateTimeUTC": "2026-09-11T18:30:00Z",
+  "group": {
+    "groupName": "3. Spieltag",
+    "groupOrderID": 3,
+    "groupID": 50635
+  },
+  "team1": {
+    "teamId": 80,
+    "teamName": "1. FC Union Berlin",
+    "shortName": "Union Berlin",
+    "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+    "teamGroupName": null
+  },
+  "team2": {
+    "teamId": 9,
+    "teamName": "FC Schalke 04",
+    "shortName": "S04",
+    "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+    "teamGroupName": null
+  },
+  "lastUpdateDateTime": "2026-07-15T11:47:38.72",
+  "matchIsFinished": false,
+  "matchResults": [],
+  "goals": [],
+  "location": null,
+  "numberOfViewers": null
+}

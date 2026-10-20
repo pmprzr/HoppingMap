@@ -1,0 +1,83 @@
+[
+  {
+    "league": "bl1",
+    "homeTeam": "Borussia Dortmund",
+    "awayTeam": "SC Paderborn 07",
+    "startTime": "2026-09-12T15:30:00",
+    "stadium": "Signal Iduna Park",
+    "latitude": 51.4926,
+    "longitude": 7.4518
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "SC Freiburg",
+    "awayTeam": "Borussia Mönchengladbach",
+    "startTime": "2026-09-12T15:30:00",
+    "stadium": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "1. FC Köln",
+    "awayTeam": "SV Werder Bremen",
+    "startTime": "2026-09-12T18:30:00",
+    "stadium": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "RB Leipzig",
+    "awayTeam": "Hamburger SV",
+    "startTime": "2026-09-13T15:30:00",
+    "stadium": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "1. FC Union Berlin",
+    "awayTeam": "FC Schalke 04",
+    "startTime": "2026-09-11T20:30:00",
+    "stadium": "Stadion an der Alten Försterei",
+    "latitude": 52.45699,
+    "longitude": 13.56786
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "TSG Hoffenheim",
+    "awayTeam": "VfB Stuttgart",
+    "startTime": "2026-09-12T15:30:00",
+    "stadium": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "FC Augsburg",
+    "awayTeam": "Bayer 04 Leverkusen",
+    "startTime": "2026-09-12T15:30:00",
+    "stadium": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "1. FSV Mainz 05",
+    "awayTeam": "Eintracht Frankfurt",
+    "startTime": "2026-09-12T15:30:00",
+    "stadium": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "league": "bl1",
+    "homeTeam": "SV 07 Elversberg",
+    "awayTeam": "FC Bayern München",
+    "startTime": "2026-09-13T17:30:00",
+    "stadium": "",
+    "latitude": 0,
+    "longitude": 0
+  }
+]

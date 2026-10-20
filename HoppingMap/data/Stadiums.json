@@ -1,0 +1,450 @@
+[
+  {
+    "TeamName": "FC Bayern München",
+    "StadiumName": "Allianz Arena",
+    "Latitude": 48.2188,
+    "Longitude": 11.6247,
+    "EuroplanUrl": "",
+    "TicketShopUrl": "https://tickets.fcbayern.com/"
+  },
+  {
+    "TeamName": "Borussia Dortmund",
+    "StadiumName": "Signal Iduna Park",
+    "Latitude": 51.4926,
+    "Longitude": 7.4518,
+    "EuroplanUrl": "https://www.europlan-online.de/signal-iduna-park/stadion-2.html",
+    "TicketShopUrl": "https://www.bvb.de/Tickets"
+  },
+  {
+    "TeamName": "RB Leipzig",
+    "StadiumName": "Red Bull Arena",
+    "Latitude": 51.3459,
+    "Longitude": 12.3482,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "VfB Stuttgart",
+    "StadiumName": "MHPArena",
+    "Latitude": 48.7925,
+    "Longitude": 9.2320,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "TSG Hoffenheim",
+    "StadiumName": "PreZero Arena",
+    "Latitude": 49.2380,
+    "Longitude": 8.8888,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Bayer 04 Leverkusen",
+    "StadiumName": "BayArena",
+    "Latitude": 51.0382,
+    "Longitude": 7.0026,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SC Freiburg",
+    "StadiumName": "Europa-Park Stadion",
+    "Latitude": 48.0217,
+    "Longitude": 7.8302,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Eintracht Frankfurt",
+    "StadiumName": "Deutsche Bank Park",
+    "Latitude": 50.0685,
+    "Longitude": 8.6455,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "FC Augsburg",
+    "StadiumName": "WWK Arena",
+    "Latitude": 48.3236,
+    "Longitude": 10.8863,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FSV Mainz 05",
+    "StadiumName": "Mewa Arena",
+    "Latitude": 49.9846,
+    "Longitude": 8.2247,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FC Union Berlin",
+    "StadiumName": "Stadion An der Alten Försterei",
+    "Latitude": 52.4575,
+    "Longitude": 13.5687,
+    "EuroplanUrl": "",
+    "TicketShopUrl": "https://tickets.fc-union-berlin.de/"
+  },
+  {
+    "TeamName": "Borussia Mönchengladbach",
+    "StadiumName": "Borussia-Park",
+    "Latitude": 51.1747,
+    "Longitude": 6.3852,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Hamburger SV",
+    "StadiumName": "Volksparkstadion",
+    "Latitude": 53.5871,
+    "Longitude": 9.8983,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FC Köln",
+    "StadiumName": "RheinEnergieStadion",
+    "Latitude": 50.9339,
+    "Longitude": 6.8753,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SV Werder Bremen",
+    "StadiumName": "Weserstadion",
+    "Latitude": 53.0662,
+    "Longitude": 8.8372,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "FC Schalke 04",
+    "StadiumName": "Veltins-Arena",
+    "Latitude": 51.5546,
+    "Longitude": 7.0678,
+    "EuroplanUrl": "",
+    "TicketShopUrl": "https://schalke04.de/tickets/"
+  },
+  {
+    "TeamName": "SV 07 Elversberg",
+    "StadiumName": "Ursapharm-Arena an der Kaiserlinde",
+    "Latitude": 49.2814,
+    "Longitude": 7.1225,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SC Paderborn 07",
+    "StadiumName": "Home Deluxe Arena",
+    "Latitude": 51.7136,
+    "Longitude": 8.7810,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FC Nürnberg",
+    "StadiumName": "Max-Morlock-Stadion",
+    "Latitude": 49.4283,
+    "Longitude": 11.1256,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Hertha BSC",
+    "StadiumName": "Olympiastadion Berlin",
+    "Latitude": 52.5147,
+    "Longitude": 13.2394,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Karlsruher SC",
+    "StadiumName": "BBBank Wildpark",
+    "Latitude": 49.0161,
+    "Longitude": 8.4158,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "VfL Wolfsburg",
+    "StadiumName": "Volkswagen Arena",
+    "Latitude": 52.4319,
+    "Longitude": 10.8033,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Eintracht Braunschweig",
+    "StadiumName": "Eintracht-Stadion",
+    "Latitude": 52.2735,
+    "Longitude": 10.5432,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Arminia Bielefeld",
+    "StadiumName": "SchücoArena",
+    "Latitude": 52.0286,
+    "Longitude": 8.5313,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "VfL Bochum",
+    "StadiumName": "Vonovia Ruhrstadion",
+    "Latitude": 51.4915,
+    "Longitude": 7.2364,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Energie Cottbus",
+    "StadiumName": "Stadion der Freundschaft",
+    "Latitude": 51.7469,
+    "Longitude": 14.3398,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FC Heidenheim 1846",
+    "StadiumName": "Voith-Arena",
+    "Latitude": 48.6668,
+    "Longitude": 10.1462,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FC Magdeburg",
+    "StadiumName": "Avnet Arena",
+    "Latitude": 52.1094,
+    "Longitude": 11.6398,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Dynamo Dresden",
+    "StadiumName": "Rudolf-Harbig-Stadion",
+    "Latitude": 51.0359,
+    "Longitude": 13.7517,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Holstein Kiel",
+    "StadiumName": "Holstein-Stadion",
+    "Latitude": 54.3462,
+    "Longitude": 10.1078,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "FC St. Pauli",
+    "StadiumName": "Millerntor-Stadion",
+    "Latitude": 53.5541,
+    "Longitude": 9.9678,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FC Kaiserslautern",
+    "StadiumName": "Fritz-Walter-Stadion",
+    "Latitude": 49.4293,
+    "Longitude": 7.7758,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SV Darmstadt 98",
+    "StadiumName": "Merck-Stadion am Böllenfalltor",
+    "Latitude": 49.8564,
+    "Longitude": 8.6600,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SpVgg Greuther Fürth",
+    "StadiumName": "Sportpark Ronhof",
+    "Latitude": 49.4867,
+    "Longitude": 10.9897,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Hannover 96",
+    "StadiumName": "Heinz-von-Heiden-Arena",
+    "Latitude": 52.3606,
+    "Longitude": 9.7325,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "VfL Osnabrück",
+    "StadiumName": "Stadion an der Bremer Brücke",
+    "Latitude": 52.2725,
+    "Longitude": 8.0797,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "MSV Duisburg",
+    "StadiumName": "Schauinsland-Reisen-Arena",
+    "Latitude": 51.4292,
+    "Longitude": 6.7539,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "1. FC Saarbrücken",
+    "StadiumName": "Ludwigsparkstadion",
+    "Latitude": 49.2404,
+    "Longitude": 6.9906,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Hansa Rostock",
+    "StadiumName": "Ostseestadion",
+    "Latitude": 54.0886,
+    "Longitude": 12.1109,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Alemannia Aachen",
+    "StadiumName": "Tivoli",
+    "Latitude": 50.7818,
+    "Longitude": 6.0868,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SC Preußen Münster",
+    "StadiumName": "Preußenstadion",
+    "Latitude": 51.9464,
+    "Longitude": 7.6325,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Rot-Weiss Essen",
+    "StadiumName": "Stadion an der Hafenstraße",
+    "Latitude": 51.4494,
+    "Longitude": 6.9967,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "TSG 1899 Hoffenheim II",
+    "StadiumName": "Dietmar-Hopp-Stadion",
+    "Latitude": 49.2919,
+    "Longitude": 8.6994,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Viktoria Köln",
+    "StadiumName": "Sportpark Höhenberg",
+    "Latitude": 50.9500,
+    "Longitude": 7.0347,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "VfB Stuttgart II",
+    "StadiumName": "Gazi-Stadion auf der Waldau",
+    "Latitude": 48.7614,
+    "Longitude": 9.1626,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SG Sonnenhof Großaspach",
+    "StadiumName": "WIRmachenDRUCK Arena",
+    "Latitude": 48.9928,
+    "Longitude": 9.4372,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SV Meppen",
+    "StadiumName": "Hänsch-Arena",
+    "Latitude": 52.6925,
+    "Longitude": 7.3111,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SC Fortuna Köln",
+    "StadiumName": "Südstadion",
+    "Latitude": 50.9186,
+    "Longitude": 6.9481,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "FC Ingolstadt 04",
+    "StadiumName": "Audi Sportpark",
+    "Latitude": 48.7735,
+    "Longitude": 11.4372,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Würzburger Kickers",
+    "StadiumName": "Flyeralarm Arena",
+    "Latitude": 49.7913,
+    "Longitude": 9.9647,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SV Waldhof Mannheim",
+    "StadiumName": "Carl-Benz-Stadion",
+    "Latitude": 49.4761,
+    "Longitude": 8.5453,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "Fortuna Düsseldorf",
+    "StadiumName": "Merkur Spiel-Arena",
+    "Latitude": 51.2611,
+    "Longitude": 6.7333,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "TSV Havelse",
+    "StadiumName": "Wilhelm-Langrehr-Stadion",
+    "Latitude": 52.4167,
+    "Longitude": 9.5833,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SC Verl",
+    "StadiumName": "SPORTCLUB Arena",
+    "Latitude": 51.8814,
+    "Longitude": 8.5175,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SV Wehen Wiesbaden",
+    "StadiumName": "BRITA-Arena",
+    "Latitude": 50.0836,
+    "Longitude": 8.2075,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  },
+  {
+    "TeamName": "SSV Jahn Regensburg",
+    "StadiumName": "Jahnstadion Regensburg",
+    "Latitude": 49.0192,
+    "Longitude": 12.0956,
+    "EuroplanUrl": "",
+    "TicketShopUrl": ""
+  }
+]

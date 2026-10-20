@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="scripts\app.ts" />
+    <None Remove="scripts\leaflet-globals.d.ts" />
+    <None Remove="scripts\matches.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="7.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="scripts\app.ts" />
+    <TypeScriptCompile Include="scripts\leaflet-globals.d.ts" />
+    <TypeScriptCompile Include="scripts\map.ts" />
+    <TypeScriptCompile Include="scripts\matches.ts" />
+  </ItemGroup>
+  
+	<ItemGroup>
+	  <None Include="data\stadiums.json" CopyToOutputDirectory="PreserveNewest" />
+	</ItemGroup>
+
+</Project>
